@@ -1,3 +1,2 @@
 # Python_Course
-Basic Hands_on for Python 
-   Here I have uploaded the Basic codes for python. We can understand the concepts of basics using this python files. I have recommended pycharm IDE for coding. 
+    Here I have uploaded the Basic codes for python from Guvi python course. You can understand the basics of python using this python files. I have recommended pycharm IDE for coding. 
